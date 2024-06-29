@@ -1,0 +1,30 @@
+{
+  "background_color": "#ffffff",
+  "description": "Welcome to Railway Quick Mutual Transfer!\n           \n Find your ideal transfer partner effortlessly!\n\nOur platform transforms the process of searching for mutual transfers, making it easier and faster than traditional methods. Connect quickly with your perfect transfer match using our advanced",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "RAILWAY QUICK MUTUAL TRANSFER",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "RAILWAY QUICK MUTUAL TRANSFER",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://ssl.gstatic.com/atari/images/public/favicon.ico"
+    },
+    {
+      "src": "https://yourusername.github.io/railway-quick-mutual-transfer/icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "share_target": {
+    "method": "GET",
+    "action": "https://www.railwayquickmutualtransfer.com",
+    "params": {
+      "title": "RailwayQuickMutualTransfer",
+      "url": "https://www.railwayquickmutualtransfer.com/"
+    }
+  }
+}
