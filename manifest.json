@@ -14,17 +14,9 @@
       "src": "https://ssl.gstatic.com/atari/images/public/favicon.ico"
     },
     {
-      "src": "https://callmutualheLp.github.io/railway-quick-mutual-transfer/RQMTLOGO.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "src": "https://lh4.googleusercontent.com/42g5M1HbmTzuJZB5nx30wAhNlRXOBUcDCeGYSQ-Q4mQnF88zH0DCRr870VxCvfp-TdKSTi-VX-CahCk3l05bu6c=w16383",
+      "type": "image/jpeg",
+      "sizes": "997x1002"
     }
-  ],
-  "share_target": {
-    "method": "GET",
-    "action": "https://www.railwayquickmutualtransfer.com",
-    "params": {
-      "title": "RailwayQuickMutualTransfer",
-      "url": "https://www.railwayquickmutualtransfer.com/"
-    }
-  }
+  ]
 }
